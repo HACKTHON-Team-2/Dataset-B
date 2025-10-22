@@ -1,7 +1,5 @@
 #  Data Science Challenge – Dataset B (H1N1 Vaccination Prediction)
 
-**University of Hertfordshire – MSc Data Science Hackathon (Group 4)**  
-Tutor : Pedro Carrilho | Weight : 30 % | Date : October 2025  
 
 ---
 
